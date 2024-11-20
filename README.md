@@ -1,4 +1,4 @@
-## Hi👋, I'm Huynh Tran
+<h1 align="center"><strong>Hi👋, I'm Huynh Tran</strong></h1>
 
 ### About Me
 - 🔭 I’m currently studying at **FPT University**.  
@@ -11,25 +11,20 @@
 
 ### Skills & Tools
 - **Languages:**  
-  ![Java](https://www.google.com/s2/favicons?domain=java.com) ![C#](https://www.google.com/s2/favicons?domain=docs.microsoft.com) ![ASP.NET Core](https://www.google.com/s2/favicons?domain=dotnet.microsoft.com) ![HTML](https://www.google.com/s2/favicons?domain=w3.org) ![CSS](https://www.google.com/s2/favicons?domain=css-tricks.com) ![SQL](https://www.google.com/s2/favicons?domain=mysql.com)
-
+  [![Java](https://www.google.com/s2/favicons?domain=java.com)](https://www.java.com) [![C#](https://www.google.com/s2/favicons?domain=docs.microsoft.com)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![ASP.NET Core](https://www.google.com/s2/favicons?domain=dotnet.microsoft.com)](https://dotnet.microsoft.com/) [![HTML](https://www.google.com/s2/favicons?domain=w3.org)](https://www.w3.org/html/) [![CSS](https://www.google.com/s2/favicons?domain=css-tricks.com)](https://css-tricks.com/) [![SQL](https://www.google.com/s2/favicons?domain=mysql.com)](https://www.mysql.com/)
+  
 - **Frameworks/Tools:**  
-  ![JSP](https://www.google.com/s2/favicons?domain=oracle.com) ![Mockito](https://www.google.com/s2/favicons?domain=site.mockito.org) ![Trello](https://www.google.com/s2/favicons?domain=trello.com) ![Cloudinary](https://www.google.com/s2/favicons?domain=cloudinary.com)
+  [![JSP](https://www.google.com/s2/favicons?domain=oracle.com)](https://www.oracle.com/java/technologies/java-server-pages.html) [![Trello](https://www.google.com/s2/favicons?domain=trello.com)](https://trello.com/) [![Cloudinary](https://www.google.com/s2/favicons?domain=cloudinary.com)](https://cloudinary.com/)
 
 - **Database:**  
-  ![MySQL](https://www.google.com/s2/favicons?domain=mysql.com) ![NoSQL](https://www.google.com/s2/favicons?domain=npmjs.com)
-
+  [![MySQL](https://www.google.com/s2/favicons?domain=mysql.com)](https://www.mysql.com/) 
 - **IDE:**  
-  ![Visual Studio Code](https://www.google.com/s2/favicons?domain=code.visualstudio.com) ![NetBeans](https://www.google.com/s2/favicons?domain=apache.org) ![IntelliJ IDEA](https://www.google.com/s2/favicons?domain=jetbrains.com)
+  [![Visual Studio Code](https://www.google.com/s2/favicons?domain=code.visualstudio.com)](https://code.visualstudio.com/) [![NetBeans](https://www.google.com/s2/favicons?domain=apache.org)](https://netbeans.apache.org/) [![IntelliJ IDEA](https://www.google.com/s2/favicons?domain=jetbrains.com)](https://www.jetbrains.com/idea/)
 
-
-### Projects
-- 🐠 [Koi Fish Care System](#): Manage ponds, track fish growth, monitor water parameters, and more.
-- 📚 [Book Management System](#): A user-friendly application for managing book collections.
-- 🌐 [Online Movie Streaming Platform](#): A feature-rich platform for enjoying your favorite movies.
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HuynhNguyenQueTran&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HuynhNguyenQueTran&show_icons=true&theme=light)
+
 
 ---
 
